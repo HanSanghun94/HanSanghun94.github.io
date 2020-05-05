@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "category"
+  - title: "Category"
     url: /categories/
-  - title: "about"
+  - title: "About"
     url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
