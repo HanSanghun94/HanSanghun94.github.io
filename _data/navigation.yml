@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "카테고리"
-    url: https://hansanghun94.github.io/
-  - title: "About"
+  - title: "category"
+    url: /categories/
+  - title: "about"
     url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
