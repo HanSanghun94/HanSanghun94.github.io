@@ -2,10 +2,6 @@
 main:
   - title: "Category"
     url: /categories/
-  - title: "Front-End"
-    url: /Front-End/
-  - title: "Back-End"
-    url: /Back-End/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
